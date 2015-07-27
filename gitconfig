@@ -1,0 +1,7 @@
+[user]
+	name = David Pintado
+	email = david@card.com
+[branch]
+	autosetuprebase = always
+[core]
+	editor = vim
